@@ -1,0 +1,78 @@
+instance,seed,konfigurasi,jarak,waktu
+eil51,42,Baseline,617,1.2719
+eil51,101,Baseline,597,1.5096
+eil51,202,Baseline,635,1.3437
+eil51,303,Baseline,608,1.3394
+eil51,404,Baseline,548,1.3049
+berlin52,42,Baseline,10591,1.4907
+berlin52,101,Baseline,11770,1.3142
+berlin52,202,Baseline,11539,1.3405
+berlin52,303,Baseline,11437,1.4335
+berlin52,404,Baseline,10973,1.6655
+kroA100,42,Baseline,64677,2.2051
+kroA100,101,Baseline,60062,2.1675
+kroA100,202,Baseline,63881,2.1163
+kroA100,303,Baseline,59295,2.2135
+kroA100,404,Baseline,62028,2.168
+eil51,11,Tuning_mr0.05_k3,430,1.2665
+eil51,22,Tuning_mr0.05_k3,428,1.3304
+eil51,33,Tuning_mr0.05_k3,431,1.3256
+eil51,11,Tuning_mr0.05_k5,431,1.4851
+eil51,22,Tuning_mr0.05_k5,429,1.4415
+eil51,33,Tuning_mr0.05_k5,431,1.5183
+eil51,11,Tuning_mr0.05_k10,429,1.6367
+eil51,22,Tuning_mr0.05_k10,432,1.5981
+eil51,33,Tuning_mr0.05_k10,431,1.6957
+eil51,11,Tuning_mr0.15_k3,428,1.3572
+eil51,22,Tuning_mr0.15_k3,430,1.3165
+eil51,33,Tuning_mr0.15_k3,429,1.4444
+eil51,11,Tuning_mr0.15_k5,430,1.632
+eil51,22,Tuning_mr0.15_k5,430,1.633
+eil51,33,Tuning_mr0.15_k5,431,2.0659
+eil51,11,Tuning_mr0.15_k10,430,2.6597
+eil51,22,Tuning_mr0.15_k10,428,3.2369
+eil51,33,Tuning_mr0.15_k10,431,2.6656
+eil51,11,Tuning_mr0.30_k3,427,2.0244
+eil51,22,Tuning_mr0.30_k3,428,1.8654
+eil51,33,Tuning_mr0.30_k3,432,1.6956
+eil51,11,Tuning_mr0.30_k5,429,2.1712
+eil51,22,Tuning_mr0.30_k5,429,2.1857
+eil51,33,Tuning_mr0.30_k5,429,1.7793
+eil51,11,Tuning_mr0.30_k10,428,1.4924
+eil51,22,Tuning_mr0.30_k10,429,1.3888
+eil51,33,Tuning_mr0.30_k10,433,1.4303
+kroA100,42,Lengkap (M1+M2+M3),21282,2.939
+kroA100,101,Lengkap (M1+M2+M3),21369,2.616
+kroA100,202,Lengkap (M1+M2+M3),21441,2.499
+kroA100,303,Lengkap (M1+M2+M3),21446,2.614
+kroA100,404,Lengkap (M1+M2+M3),21282,2.586
+kroA100,42,Tanpa M1,26605,1.4853
+kroA100,101,Tanpa M1,27484,1.664
+kroA100,202,Tanpa M1,27419,1.5075
+kroA100,303,Tanpa M1,26820,1.491
+kroA100,404,Tanpa M1,27472,1.3518
+kroA100,42,Tanpa M2,21471,2.1036
+kroA100,101,Tanpa M2,21735,2.5304
+kroA100,202,Tanpa M2,21504,2.3311
+kroA100,303,Tanpa M2,21433,2.1957
+kroA100,404,Tanpa M2,21282,2.2349
+kroA100,42,Tanpa M3,21634,1.8122
+kroA100,101,Tanpa M3,22252,1.8885
+kroA100,202,Tanpa M3,21976,1.9217
+kroA100,303,Tanpa M3,21894,1.6426
+kroA100,404,Tanpa M3,22215,1.7737
+eil51,42,Lengkap (M1+M2+M3),428,1.1723
+eil51,101,Lengkap (M1+M2+M3),430,1.1114
+eil51,202,Lengkap (M1+M2+M3),431,0.9991
+eil51,303,Lengkap (M1+M2+M3),428,1.1962
+eil51,404,Lengkap (M1+M2+M3),431,1.0869
+berlin52,42,Lengkap (M1+M2+M3),7542,1.3414
+berlin52,101,Lengkap (M1+M2+M3),7542,1.2239
+berlin52,202,Lengkap (M1+M2+M3),7542,1.2184
+berlin52,303,Lengkap (M1+M2+M3),7542,1.4907
+berlin52,404,Lengkap (M1+M2+M3),7542,1.3419
+kroA100,42,Baseline_EqualTime,61108,2.6553
+kroA100,101,Baseline_EqualTime,59146,2.6522
+kroA100,202,Baseline_EqualTime,61007,2.6527
+kroA100,303,Baseline_EqualTime,56179,2.6514
+kroA100,404,Baseline_EqualTime,57680,2.6544
